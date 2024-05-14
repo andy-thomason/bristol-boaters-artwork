@@ -9,3 +9,7 @@ See
 https://en.wikipedia.org/wiki/Rainbow_flag#/media/File:LGBTQ+_rainbow_flag_Quasar_%22Progress%22_variant.svg
 
 For the Pride background.
+
+
+Note that the XCF (Gimp) file contains two versions of background, one
+for black and one for LBGT+
